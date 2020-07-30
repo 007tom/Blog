@@ -5,6 +5,7 @@
   :PROPERTIES:
   :EXPORT_FILE_NAME: carousel
   :EXPORT_HUGO_SECTION: /posts
+  :EXPORT_HUGO_CATEGORIES: CSS
   :END:
 ** [[https://segmentfault.com/u/stillsilly][大佬]]太强了，教我撸了个轮播图
 *** 初衷

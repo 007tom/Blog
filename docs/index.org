@@ -32,6 +32,7 @@ P.S. *正在找工作。。。*
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: /posts
   :EXPORT_FILE_NAME: code_review
+  :EXPORT_HUGO_CATEGORIES: typescript
   :END:
 ** PropTypes 转换
  PropTypes 是 React 对 ~prop~ 的一种类型检查机制，但从 v15.5 开始，官方已经

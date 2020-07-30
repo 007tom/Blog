@@ -41,8 +41,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = ""
-    author = "Mai"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    author = "梓川"               # Author's name
+    subtitle = "人活着就是为了樱岛麻衣"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -52,7 +52,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
@@ -140,10 +140,10 @@ Twitter = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Mai"
+  name = "梓川"
 
   [params.publisher]
-    name = "Mai"
+    name = "梓川"
 
     [params.publisher.logo]
       url = "logo.png"
