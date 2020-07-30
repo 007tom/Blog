@@ -2,7 +2,8 @@
 
 #+options: creator:t author:nil
 
-* Homepage
+* DONE Homepage
+  CLOSED: [2020-07-30 四 15:23]
   :PROPERTIES:
   :EXPORT_HUGO_MENU: :menu main
   :EXPORT_HUGO_SECTION: /
@@ -10,12 +11,43 @@
   :EXPORT_FILE_NAME: _index
   :END:
 
-Will be updated later...
+  *Hi, there👋*
+  
+  *Eorg* is a /rich-text/ editor based on [[https://draftjs.org/][Draft.js]] , inspired by Emacs org-mode
+, and it is used to convert ~.rtx~ to ~.tex~
 
-* DONE About Me
-  CLOSED: <2020-04-01 三 01:03>
+  *Try it...*
+
+  打算开发一个富文本编辑器 Eorg （暂时就这样称呼吧），查了一下 Wikipedia，用 
+~contentEditable~ 的比较多，但是 MDN 指出 ~.execCommand~ 已经过时了，所以就选了 [[https://draftjs.org/][Draft.js]]
+框架实现
+
+* DONE Similar Tools
+  CLOSED: [2020-07-30 四 16:43]
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu main
+  :EXPORT_FILE_NAME: tool
+  :END:
+
+|        | Overleaf rich-text mode | AucTeX ~preview-latex~ |
+|--------+-------------------------+------------------------|
+| *PROS* |                         |                        |
+| *CONS* | not open source, bugs   | rely on Emacs          |
+
+
+* DONE Architecture
+  CLOSED: [2020-07-30 四 16:52]
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: architecture
+  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu implementation
+  :END:
+  ![[file:https://i.imgur.com/0zpyyCo.png][Eorg v4]]
+* DONE About Me
+  CLOSED: [2020-07-30 四 18:29] CLOSED: <2020-04-01 三 01:03>
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: /
   :EXPORT_FILE_NAME: about
   :EXPORT_HUGO_BUNDLE: /
   :EXPORT_HUGO_MENU: :menu main
@@ -23,7 +55,7 @@ Will be updated later...
 比较 geek，文档只看官方的，比如 MDN，javascript.info，绝大多数开发问题都可以
 通过官方文档解决，github issue，stackoverflow 也是经常解决问题的工具
 
-P.S. *正在找工作。。。*
+运气好
 
 *TL;DR*
 
@@ -39,8 +71,8 @@ P.S. *正在找工作。。。*
 
 *看起来生活挺枯燥乏味的。。。*
 
-* DONE TypeScript 初体验
-  CLOSED: <2020-04-05 日 01:04>
+* DONE TypeScript
+  CLOSED: <2020-07-30 四 18:44> CLOSED: <2020-04-05 日 01:04>
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :EXPORT_FILE_NAME: code_review
