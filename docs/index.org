@@ -35,6 +35,35 @@
 | *PROS* |                         |                        |
 | *CONS* | not open source, bugs   | rely on Emacs          |
 
+* DONE WorkFlow
+  CLOSED: [2020-07-30 四 19:37]
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu implementation
+  :EXPORT_FILE_NAME: workflow
+  :END:
+
+My folder structure:
+
+#+begin_src bash
+  .
+  ├── Eorg
+  └── blog
+      ├── deploy.sh
+      └── docs
+	  └── post.org
+#+end_src
+
+*** blog
+
+- edit ~post.org~
+- ~./deploy.sh "deploy message"~
+- ~git add .~
+- ~git reset public~
+- ~git reset themes~
+
+*** Eorg
+- update ~Eorg~ project
 
 * DONE Architecture
   CLOSED: [2020-07-30 四 16:52]
