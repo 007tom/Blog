@@ -4,8 +4,9 @@
 * DONE Webpack
   CLOSED: <2020-04-06 一 01:23>
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: /posts
+  :EXPORT_HUGO_SECTION: /post
   :EXPORT_FILE_NAME: webpack
+  :EXPORT_HUGO_MENU: :menu other
   :END:
 
 在使用 webpack ~build~ 项目时，提示文件大小超过限制，而且项目上线后加载特别特别慢，

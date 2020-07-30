@@ -5,3 +5,5 @@
 	path = public
 	url = https://github.com/zhyd1997/zhyd1997.github.io.git
 	branch = master
+[submodule "themes"]
+	path = themes

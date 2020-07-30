@@ -4,8 +4,8 @@
   CLOSED: <2020-04-17 五 01:21>
   :PROPERTIES:
   :EXPORT_FILE_NAME: carousel
-  :EXPORT_HUGO_SECTION: /posts
-  :EXPORT_HUGO_CATEGORIES: CSS
+  :EXPORT_HUGO_SECTION: /post
+  :EXPORT_HUGO_MENU: :menu other
   :END:
 ** [[https://segmentfault.com/u/stillsilly][大佬]]太强了，教我撸了个轮播图
 *** 初衷

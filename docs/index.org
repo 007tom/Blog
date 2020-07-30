@@ -2,11 +2,23 @@
 
 #+options: creator:t author:nil
 
-* DONE About me
+* Homepage
+  :PROPERTIES:
+  :EXPORT_HUGO_MENU: :menu main
+  :EXPORT_HUGO_SECTION: /
+  :EXPORT_HUGO_TYPE: homepage
+  :EXPORT_FILE_NAME: _index
+  :END:
+
+Will be updated later...
+
+* DONE About Me
   CLOSED: <2020-04-01 三 01:03>
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: /
+  :EXPORT_HUGO_SECTION: post
   :EXPORT_FILE_NAME: about
+  :EXPORT_HUGO_BUNDLE: /
+  :EXPORT_HUGO_MENU: :menu main
   :END:
 比较 geek，文档只看官方的，比如 MDN，javascript.info，绝大多数开发问题都可以
 通过官方文档解决，github issue，stackoverflow 也是经常解决问题的工具
@@ -30,9 +42,9 @@ P.S. *正在找工作。。。*
 * DONE TypeScript 初体验
   CLOSED: <2020-04-05 日 01:04>
   :PROPERTIES:
-  :EXPORT_HUGO_SECTION: /posts
+  :EXPORT_HUGO_SECTION: post
   :EXPORT_FILE_NAME: code_review
-  :EXPORT_HUGO_CATEGORIES: typescript
+  :EXPORT_HUGO_MENU: :menu other
   :END:
 ** PropTypes 转换
  PropTypes 是 React 对 ~prop~ 的一种类型检查机制，但从 v15.5 开始，官方已经
