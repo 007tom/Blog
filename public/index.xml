@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mai on Mai</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Mai on Mai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Jul 2020 01:03:00 +0800</lastBuildDate>
+    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://example.com/posts/</link>
+      <pubDate>Thu, 30 Jul 2020 01:23:00 +0800</pubDate>
+      
+      <guid>https://example.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 30 Jul 2020 01:03:00 +0800</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;比较 geek，文档只看官方的，比如 MDN，javascript.info，绝大多数开发问题都可以通过官方文档解决，github issue，stackoverflow 也是经常解决问题的工具&lt;/p&gt;
+&lt;p&gt;P.S. &lt;strong&gt;正在找工作。。。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2017 年开始折腾博客，用 Hexo 搭的，基本什么都没写，后来换 Hugo，托管在 &lt;code&gt;coding.net&lt;/code&gt;
+，啥都没写，这个博客是今年 3 月份搭的，之前用 github.io 访问，经大佬指点，绑定了域名，之前用了两年的阿里云 &lt;code&gt;.top&lt;/code&gt;
+域名过期未续费，所以在 &lt;a href=&#34;https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages&#34;&gt;namecheap&lt;/a&gt; 注册了 &lt;code&gt;.me&lt;/code&gt; 新域名，托管在 github page，而且其与
+&lt;em&gt;&lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;&lt;/em&gt; 有合作，自动 https 绿锁，
+&lt;em&gt;Everything goes smoothly&lt;/em&gt; .&lt;/p&gt;
+&lt;p&gt;用 ox-hugo 写博客有一点不方便就是不支持 org-mode 的 &lt;a href=&#34;https://github.com/kaushalmodi/ox-hugo/issues/162&#34;&gt;codeRef&lt;/a&gt; ，希望作者早点完成这个 feature 吧！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;看起来生活挺枯燥乏味的。。。&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
