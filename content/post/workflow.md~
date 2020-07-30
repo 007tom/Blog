@@ -19,13 +19,16 @@ My folder structure:
       └── post.org
 ```
 
-1.  blog
 
-2.  edit `post.org`
-3.  `./deploy.sh "deploy message"`
-4.  `git add .`
-5.  `git reset public`
-6.  `git reset themes`
+## blog {#blog}
 
-7.  Eorg
-8.  update `Eorg` project
+-   edit `post.org`
+-   `./deploy.sh "deploy message"`
+-   `git add .`
+-   `git reset public`
+-   `git reset themes`
+
+
+## Eorg {#eorg}
+
+-   update `Eorg` project

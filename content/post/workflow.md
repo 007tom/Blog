@@ -27,6 +27,8 @@ My folder structure:
 -   `git add .`
 -   `git reset public`
 -   `git reset themes`
+-   `git commit -m "some messages"`
+-   `git push origin master`
 
 
 ## Eorg {#eorg}
