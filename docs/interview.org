@@ -1,0 +1,15 @@
+#+hugo_base_dir: ..
+#+options: author:nil
+
+* Interview
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: interview
+  :EXPORT_HUGO_MENU: :menu Miscellaneous
+  :EXPORT_HUGO_SECTION: /
+  :END:
+
+[[https://blog.nowcoder.net/n/2d16a97438a34f5c86e80adfa906fbc2][牛客]]
+
+** 经历
+第一份是力扣 HR 发来的笔试邀请，满怀激动的打开链接，比较注重单元测试，然后
+就没有然后了，因为我不会。。。
