@@ -1,6 +1,6 @@
 +++
 title = "TypeScript 初体验"
-date = 2020-07-30T01:04:00+08:00
+date = 2020-04-05T01:04:00+08:00
 draft = false
 creator = "Emacs 26.3 (Org mode 9.3.7 + ox-hugo)"
 +++

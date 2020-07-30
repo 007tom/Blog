@@ -28,7 +28,7 @@ P.S. *正在找工作。。。*
 *看起来生活挺枯燥乏味的。。。*
 
 * DONE TypeScript 初体验
-  CLOSED: [2020-07-30 四 01:04]
+  CLOSED: <2020-04-05 日 01:04>
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: /posts
   :EXPORT_FILE_NAME: code_review

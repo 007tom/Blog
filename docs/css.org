@@ -1,7 +1,7 @@
 #+hugo_base_dir: ..
 #+options: author:nil
 * DONE Carousel
-  CLOSED: [2020-07-30 四 01:21]
+  CLOSED: <2020-04-17 五 01:21>
   :PROPERTIES:
   :EXPORT_FILE_NAME: carousel
   :EXPORT_HUGO_SECTION: /posts

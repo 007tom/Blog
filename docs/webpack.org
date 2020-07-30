@@ -2,7 +2,7 @@
 #+options: author:nil
 
 * DONE Webpack
-  CLOSED: [2020-07-30 四 01:23]
+  CLOSED: <2020-04-06 一 01:23>
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: /posts
   :EXPORT_FILE_NAME: webpack
