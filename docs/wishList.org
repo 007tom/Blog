@@ -23,7 +23,27 @@
     - [ ] inline mode
     - [ ] display mode
     - [ ] modal 
-** TODO table
+** DONE Table
+   CLOSED: [2020-07-31 五 15:53]
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: post
+   :EXPORT_HUGO_MENU: :menu beta feature
+   :EXPORT_FILE_NAME: table
+   :END:
+Resource:
+- [[https://javascript.info/focus-blur#tasks][Tasks]]
+- [[https://developer.mozilla.org/en-US/docs/Web/API/Element/dblclick_event][ondblclick]]
+
+Demo:
+#+begin_export html
+<p class="codepen" data-height="534" data-theme-id="dark" data-default-tab="result" data-user="Sakuta" data-slug-hash="VweoZjw" style="height: 534px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Bagua Chart">
+  <span>See the Pen <a href="https://codepen.io/Sakuta/pen/VweoZjw">
+  Bagua Chart</a> by Mai (<a href="https://codepen.io/Sakuta">@Sakuta</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+#+end_export
+
 ** TODO image
 ** TODO ~.sty~ template 
 * TODO [#A] code spliting :: component reused
