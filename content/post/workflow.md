@@ -1,8 +1,8 @@
 +++
 title = "WorkFlow"
-date = 2020-07-30T19:37:00+08:00
+date = 2020-09-04T12:18:00+08:00
 draft = false
-creator = "Emacs 26.3 (Org mode 9.3.7 + ox-hugo)"
+creator = "Emacs 27.1 (Org mode 9.3.7 + ox-hugo)"
 [menu.implementation]
   weight = 1003
   identifier = "workflow"
@@ -22,11 +22,11 @@ My folder structure:
 
 ## blog {#blog}
 
--   edit `post.org`
+-   `emacs post.org`
+-   `C-c, C-e, H`
 -   `./deploy.sh "deploy message"`
 -   `git add .`
--   `git reset public`
--   `git reset themes`
+-   `git reset public themes`
 -   `git commit -m "some messages"`
 -   `git push origin master`
 

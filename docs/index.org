@@ -35,7 +35,8 @@
 | *PROS* |                         |                        |
 | *CONS* | not open source, bugs   | rely on Emacs          |
 
-* TODO WorkFlow
+* DONE WorkFlow
+  CLOSED: [2020-09-04 五 12:18]
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :EXPORT_HUGO_MENU: :menu implementation
@@ -55,7 +56,8 @@ My folder structure:
 
 *** blog
 
-- edit ~post.org~
+- ~emacs post.org~
+- ~C-c, C-e, H~
 - ~./deploy.sh "deploy message"~
 - ~git add .~
 - ~git reset public themes~
