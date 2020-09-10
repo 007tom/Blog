@@ -19,7 +19,10 @@
   *Try it...*
 
   打算开发一个富文本编辑器 Eorg （暂时就这样称呼吧），查了一下 Wikipedia，用 
-~contentEditable~ 的比较多，但是 MDN 指出 ~.execCommand~ 已经过时了，所以就选了 [[https://draftjs.org/][Draft.js]]
+~contentEditable~ 的比较多，
++但是 MDN 指出 ~.execCommand~ 已经过时了+
+/(语病)/
+，所以就选了 [[https://draftjs.org/][Draft.js]]
 框架实现
 
 * DONE Similar Tools
