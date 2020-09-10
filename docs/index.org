@@ -3,7 +3,7 @@
 #+options: creator:t author:nil
 
 * DONE Homepage
-  CLOSED: [2020-07-30 四 15:23]
+  CLOSED: [2020-09-10 四 17:35]
   :PROPERTIES:
   :EXPORT_HUGO_MENU: :menu main
   :EXPORT_HUGO_SECTION: /
