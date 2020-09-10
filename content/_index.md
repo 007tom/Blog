@@ -1,6 +1,6 @@
 +++
 title = "Homepage"
-date = 2020-09-10T17:35:00+08:00
+date = 2020-09-10T18:00:00+08:00
 type = "homepage"
 draft = false
 creator = "Emacs 27.1 (Org mode 9.3.8 + ox-hugo)"
@@ -20,5 +20,4 @@ creator = "Emacs 27.1 (Org mode 9.3.8 + ox-hugo)"
 `contentEditable` 的比较多，
 ~~但是 MDN 指出 `.execCommand` 已经过时了~~
 _(语病)_
-，所以就选了 [Draft.js](https://draftjs.org/)
-框架实现
+，所以就选了 [Draft.js](https://draftjs.org/) 框架实现

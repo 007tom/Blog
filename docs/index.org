@@ -3,7 +3,7 @@
 #+options: creator:t author:nil
 
 * DONE Homepage
-  CLOSED: [2020-09-10 四 17:35]
+  CLOSED: [2020-09-10 四 18:00]
   :PROPERTIES:
   :EXPORT_HUGO_MENU: :menu main
   :EXPORT_HUGO_SECTION: /
@@ -22,8 +22,7 @@
 ~contentEditable~ 的比较多，
 +但是 MDN 指出 ~.execCommand~ 已经过时了+
 /(语病)/
-，所以就选了 [[https://draftjs.org/][Draft.js]]
-框架实现
+，所以就选了 [[https://draftjs.org/][Draft.js]] 框架实现
 
 * DONE Similar Tools
   CLOSED: [2020-07-30 四 16:43]
